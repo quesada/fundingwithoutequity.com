@@ -1,0 +1,442 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-size"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.htm",
+			"settings":
+			{
+				"buffer_size": 6107,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "stylesheets/app.css",
+			"settings":
+			{
+				"buffer_size": 7178,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 263.0,
+		"selected_items":
+		[
+			[
+				"pain ",
+				"Package Control: Install Package"
+			],
+			[
+				"pa rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"pain",
+				"Package Control: Install Package"
+			],
+			[
+				"pa in",
+				"Package Control: Install Package"
+			],
+			[
+				"pa remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"pa i",
+				"Package Control: Install Package"
+			],
+			[
+				"pa i ",
+				"Package Control: Install Package"
+			],
+			[
+				"pa rm ",
+				"Package Control: Remove Package"
+			],
+			[
+				"pa rm",
+				"Package Control: Remove Package"
+			],
+			[
+				"pa ins",
+				"Package Control: Install Package"
+			],
+			[
+				"htm",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"Package Control: rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"pa inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ap inst",
+				"Markdown Preview: preview in Sublime Text"
+			],
+			[
+				"pa install",
+				"Package Control: Install Package"
+			],
+			[
+				"pa insta",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"pac ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 462.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/quesada/Downloads/fluidshopping-landing/landing/index.html",
+		"/home/quesada/server/Dropbox/noequityangel.com/img/2.png",
+		"/home/quesada/server/Dropbox/noequityangel.com/img/1.png",
+		"/home/quesada/Dropbox/dotfiles/.config/sublime-text-2/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/home/quesada/server/Dropbox/noequityangel.com/img/clv11.png",
+		"/home/quesada/Dropbox/dotfiles/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/quesada/tmp/jq/src/documents/life/static-site-gen.md",
+		"/home/quesada/Dropbox/dotfiles/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/quesada/server/Dropbox/writing/tech for ghacks.md",
+		"/home/quesada/server/Dropbox/writing/mynotes.txt",
+		"/home/quesada/server/Dropbox/writing/monetization methods in mobile.md",
+		"/home/quesada/server/Dropbox/writing/Landing page memoryous.md",
+		"/home/quesada/tmp/jq/src/documents/blog/2012-01-01-happy-ny.html.md",
+		"/home/quesada/tmp/jq/src/documents/blog/2012-01-01-testing.html.md",
+		"/home/quesada/tmp/jq/src/documents/blog/yet-more.html.md",
+		"/home/quesada/tmp/jq/docpad.cson",
+		"/home/quesada/tmp/jq/src/documents/life/how-complex.md",
+		"/home/quesada/server/Dropbox/writing/apis.md",
+		"/home/quesada/tmp/jq/node_modules/docpad/locale/en.cson",
+		"/home/quesada/tmp/jq/src/documents/life/index.html.coffee",
+		"/home/quesada/tmp/jq/package.json",
+		"/home/quesada/tmp/jq/src/documents/life/index.html.coffee2",
+		"/home/quesada/tmp/jq/src/documents/blog/index.html.coffee2",
+		"/home/quesada/tmp/jq/out/themes/metro/style.css",
+		"/home/quesada/Dropbox/dotfiles/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/tmp/kk.css",
+		"/home/quesada/Dropbox/dotfiles/.config/sublime-text-2/Packages/AutoFileName/autofilename.sublime-settings",
+		"/home/quesada/server/Dropbox/writing/dontneedit.md",
+		"/tmp/kk.html",
+		"/tmp/kk.sass",
+		"/home/quesada/Insync/quesada@gmail.com/CSS2e_MM_TUTORIALS/05/main.css",
+		"/home/quesada/server/Dropbox/book/landing.html",
+		"/home/quesada/Insync/quesada@gmail.com/CSS2e_MM_TUTORIALS/05/cascade.html",
+		"/home/quesada/Insync/quesada@gmail.com/CSS2e_MM_TUTORIALS/04/inheritance.html",
+		"/home/quesada/Insync/quesada@gmail.com/CSS2e_MM_TUTORIALS/03/selector_basics.html",
+		"/tmp/.com/_posts/2012/10/31/2012-10-31-15-38-my-software-stack.md",
+		"/tmp/.com/_posts/2011/12/2011-12-31-arch-for-all.md",
+		"/tmp/.com/_posts/2011/12/2011-12-19-why-jekyll.md",
+		"/home/quesada/Insync/quesada@memoryous.com/resume/resume.tex",
+		"/home/quesada/server/Dropbox/blog/md/pages/all.md",
+		"/home/quesada/server/Dropbox/blog/md/pages/Interview questions, you are killing them.md",
+		"/home/quesada/server/Dropbox/writing/untitled.txt",
+		"/home/quesada/server/Dropbox/writing/mynotes.md",
+		"/tmp/.com/_site/blog/2012/01/01/unity-is-gnome.../index.html",
+		"/tmp/.com/_drafts/movies-i-like.md",
+		"/home/quesada/server/Dropbox/writing/science bp.md",
+		"/home/quesada/Downloads/jquery-mobile-theme-174100-0/themes/memoryous.css",
+		"/home/quesada/Downloads/initializr/index.html",
+		"/home/quesada/acme/linkedin-hackday/in.js",
+		"/home/quesada/coding/memoryous/memoryous/settings.py",
+		"/home/quesada/server/Dropbox/blog/second-post.rst",
+		"/home/quesada/server/Dropbox/blog/md/first.md",
+		"/home/quesada/server/Dropbox/blog/output/theme/css/main.css",
+		"/home/quesada/server/Dropbox/blog/output/theme/css/wide.css",
+		"/home/quesada/server/Dropbox/blog/output/index.html",
+		"/home/quesada/server/Dropbox/blog/rst/my_first_post.rst",
+		"/home/quesada/server/Dropbox/blog/develop_server.sh",
+		"/home/quesada/server/Dropbox/blog/rst/pages/about.rst",
+		"/home/quesada/server/Dropbox/blog/md/gofotron.md",
+		"/home/quesada/server/Dropbox/blog/md/gofotron",
+		"/home/quesada/server/Dropbox/blog/content/blog/happy-post.html",
+		"/home/quesada/server/Dropbox/blog/layout/base.j2",
+		"/home/quesada/coding/memoryous-blog/layout/base.j2",
+		"/home/quesada/.config/fish/config.fish",
+		"/home/quesada/server/Dropbox/progmemoryous/templates/progmemoryous/about/what_next-broke.html",
+		"/home/quesada/server/Dropbox/writing/fixplasma.md",
+		"/home/quesada/Insync/quesada@fluidshopping.com/writing/#copy for memoryous.md",
+		"/home/quesada/Insync/quesada@fluidshopping.com/writing/magic realism ideas.md",
+		"/home/quesada/server/Dropbox/progmemoryous/templates/progmemoryous/about/what_next_hold.html",
+		"/home/quesada/server/Dropbox/progmemoryous/templates/progmemoryous/about/what_next.html",
+		"/home/quesada/server/Dropbox/memoryous/templates/memoryous/homepage.html",
+		"/home/quesada/server/Dropbox/progmemoryous/templates/memoryous/homepage.html",
+		"/home/quesada/.config/sublime-text-2/Packages/MarkdownEditing/Markdown.sublime-settings",
+		"/home/quesada/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/quesada/Insync/quesada@fluidshopping.com/writing/Landing page memoryous.md",
+		"/home/quesada/Insync/quesada@fluidshopping.com/writing/useful commands for markdown.md",
+		"/home/quesada/Dropbox/dotfiles/.config/sublime-text-2/Packages/Default File Type/README.md",
+		"/home/quesada/.config/sublime-text-2/Packages/User/default_file_type.sublime-settings",
+		"/home/quesada/Dropbox/dotfiles/.config/sublime-text-2/Packages/User/Markdown.sublime-settings",
+		"/home/quesada/Dropbox/dotfiles/.config/sublime-text-2/Packages/SmartMarkdown/SmartMarkdown.sublime-settings",
+		"/home/quesada/.config/sublime-text-2/Packages/MarkdownEditing/MarkdownEditor.tmTheme",
+		"/home/quesada/Insync/quesada@fluidshopping.com/writing/micropreneur.md",
+		"/home/quesada/tmp/sublime-text-2/Packages/SmartMarkdown/readme.md",
+		"/home/quesada/Insync/quesada@fluidshopping.com/writing/what_next_prog.md",
+		"/home/quesada/server/Dropbox/progmemoryous/manage.py",
+		"/home/quesada/server/Dropbox/progmemoryous/requirements.txt",
+		"/home/quesada/server/Dropbox/progmemoryous/settings.py.gobs_site",
+		"/home/quesada/server/Dropbox/progmemoryous/settings.py.local.py",
+		"/home/quesada/server/Dropbox/progmemoryous/settings.py.medizin_new",
+		"/home/quesada/tmp/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/quesada/.config/sublime-text-2/Packages/Theme - Soda/Soda Light.sublime-theme"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<project>",
+			"/home/quesada/server/Dropbox/writing",
+			"/home/quesada/server/Dropbox/memoryous/apps/flashcards",
+			"<open folders>",
+			"/home/quesada/server/Dropbox/writing",
+			"/home/quesada/server/Dropbox/progmemoryous/templates"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"shadow-down",
+			"gives you",
+			"backbone.js",
+			"backbone",
+			"backbone.js",
+			"welcomeEnvironment:",
+			"Environment:",
+			"environment",
+			"robots",
+			"sitemap",
+			"ctrl+k",
+			"system",
+			"sublime",
+			"map",
+			"mini_map",
+			"show",
+			"minimap",
+			"show minimap",
+			"\"alt+x\"",
+			"\"alt+z\"",
+			"side_bar",
+			"sidebar",
+			"auto_complete",
+			"detail",
+			"awesome",
+			"h3",
+			"h1",
+			"due",
+			"scheduler",
+			"fakeLinkedInRequests",
+			"company",
+			"banner",
+			"brain!",
+			"basic",
+			"BASIC",
+			"if",
+			"for",
+			"links",
+			"logo_eu-trans.png"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.htm",
+					"settings":
+					{
+						"buffer_size": 6107,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3640,
+								3640
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "stylesheets/app.css",
+					"settings":
+					{
+						"buffer_size": 7178,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"land",
+				"writing/Landing page memoryous.md"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 203.0,
+	"status_bar_visible": true
+}
