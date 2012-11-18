@@ -25,6 +25,19 @@
   <link href="jquery.tweet.css" rel="stylesheet"/>
 
   <script src="javascripts/modernizr.foundation.js"></script>
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-36420355-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
 
   <!-- IE Fix for HTML5 Tags -->
   <!--[if lt IE 9]>
@@ -33,7 +46,6 @@
 
 </head>
 <body>
-  <img src="images/daily-reminder.jpg" id="full-screen-background-image" >
 <div class="top_border"></div>
 <div class="row">
   <div class="twelve columns">
@@ -56,7 +68,14 @@
      </div>
 
      <div class="row">
-       <div class="soon_text">
+
+<div class="twelve columns">
+
+</div>
+      <img src="images/daily-reminder.jpg" id="full-screen-background-image" >
+
+
+    <div class="soon_text">
          <div class="twelve columns">
 
              <h2>Funding options that you may not know, with  practical, step-by-step instructions 'from the trenches' to get ~ 100,000 &euro;</h2>
@@ -64,7 +83,7 @@
            </div>
 
        </div>
-     </div>
+    </div>
 
      <div class="row">
         <div class="eight columns push-two twit_section">
@@ -149,7 +168,8 @@
         </section>
       </article>
       <article class="four columns">
-          <p class="copyright">Made with love from Berlin by Jose Quesada. Photo by Rob Walling.</p>
+          <p class="copyright">Made with love from Berlin by Jose Quesada. </p>
+          <small>Photo by Rob Walling.</small>
       </article>
     </div>
   </div>
